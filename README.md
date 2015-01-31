@@ -8,3 +8,11 @@ Passos seguidos:
 * Informa o tipo de repositório;
 * Se deseja inicializar o repositório com o arquivo *README.md*;
 * Clicar em *Create Repository*
+
+
+Comandos git:
+* git init
+* touch PrimeiroPush.txt
+* git add PrimeiroPush.txt
+* git commit -m 'Primeiro Push'
+* git push (informa usuario e senha do github)
